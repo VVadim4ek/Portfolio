@@ -1,1 +1,1 @@
-Check my portfolio https://vadym-portfolio.vercel.app/
+https://vadym-portfolio.vercel.app/
